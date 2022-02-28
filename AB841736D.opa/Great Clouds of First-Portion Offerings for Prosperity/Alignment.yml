@@ -1,0 +1,58 @@
+segment_sources:
+  PDE03E0FC:
+    type: origin_type
+    relation: translation
+    language: en
+  PB443A54A:
+    type: origin_type
+    relation: translation
+    language: es
+  P37455F98:
+    type: origin_type
+    relation: translation
+    language: fr
+  PE4B8BBE8:
+    type: origin_type
+    relation: translation
+    language: nl
+  PA9EDEAE8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  243769084bc5429e9468f277ecc32f87:
+    PDE03E0FC: b30614f59fc541e3845c10d2efcbb29c
+    PB443A54A: e9d2959a39a942d2a29cfe4f05fe06d9
+    P37455F98: 0aba40ffcdff4a00bbe13e691502b010
+    PE4B8BBE8: 19c44c51d38742cb9e56c10355bfde28
+    PA9EDEAE8: 456a590692f24b26845b8f1c39cf3568
+  7ad9f6e1a98645dab30e17456fa92d39:
+    PDE03E0FC: 67da63efdb7c4660abb6bf3be8eaa5c5
+    PB443A54A: 5698908315fe4e08921fca003b722b5c
+    P37455F98: be2255087eb44c3b966dc37013602cea
+    PE4B8BBE8: 603972b0c1534a63bacafc988345d1da
+    PA9EDEAE8: abab821dc5d04693b1dc18e211e9acb4
+  ee9cb5b9a7e14baeac68f4aa3eeb1198:
+    PDE03E0FC: 0a154eb334f6458392de8c476c56480a
+    PB443A54A: 374e277cbe9948548a91160f34c84677
+    P37455F98: 1182229b60e147d0a81d3efff3928186
+    PE4B8BBE8: e6ca700569474979b3b9c5ed77266750
+    PA9EDEAE8: 157a561ca9cb4b8b9e6cec96b234a8dc
+  bc973e87007341348b3f742191f9e97d:
+    PDE03E0FC: 46c687dd1db84bed9ccc24fda092c222
+    PB443A54A: e34ebce4cff84fe7965df765f2100f54
+    P37455F98: 2a5f699bf5a14eb9a934bcb5e61bf0a2
+    PE4B8BBE8: 35279cdbbb0647288eea2e1e8b126c13
+    PA9EDEAE8: 91ee32354e774aa2ab083f5d7adb75ec
+  582b4a68c48a4c209e25288d77708ce7:
+    PDE03E0FC: 0847488f72fc4dc2b28ec3d8857f939b
+    PB443A54A: 47277f26cdeb46079ec7e61598a7043f
+    P37455F98: 96769a4c8b3e465e9e266d37b311576d
+    PE4B8BBE8: be5335fe1a044076a44b4718ca223986
+    PA9EDEAE8: 5450246b24534eb49be88fe4b57d80ce
+  93ea56696865442489212b68ed8cca3a:
+    PDE03E0FC: ff4df9d71e554e5a877309680bb18d81
+    PB443A54A: 638d50cd849743ab819dd321a854195c
+    P37455F98: d3a4fe7feb5f4d33ac71b0efa8b301ec
+    PE4B8BBE8: 12fc58672af84d0a9d94c908a2a68443
+    PA9EDEAE8: 4101d377ffdf448b9dae5e6459d48dc0

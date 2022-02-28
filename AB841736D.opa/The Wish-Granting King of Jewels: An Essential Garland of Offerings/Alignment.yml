@@ -1,0 +1,22 @@
+segment_sources:
+  PDE03E0FC:
+    type: origin_type
+    relation: translation
+    language: en
+  PA9EDEAE8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f24f58c8fe9240c1a8cc561df02905bd:
+    PDE03E0FC: 1638cdaa5eae44d19ed876e7feccff43
+    PA9EDEAE8: 5ff2b8a933e14e02bee3ed181621651e
+  324845f7ccbd489e81b02d198c85dcb5:
+    PDE03E0FC: 1e97482a6d3647b2bff639ff370648b3
+    PA9EDEAE8: b5b893e3aa024e7e8b61b01efdb78a08
+  0f2f4ddd609b491d90e135dfeea510c4:
+    PDE03E0FC: 3815d3a3b3f54fa4b956b5b77bd9d6ce
+    PA9EDEAE8: 9e0575896a8f4c9b83b9022b2a15cd99
+  a9cdec63cc774d4b8f24e27292ce8d08:
+    PDE03E0FC: 1957afa4e37b44bcb9f4e8468c101730
+    PA9EDEAE8: 4aa96d3ce40141adb6964761515fdcec
